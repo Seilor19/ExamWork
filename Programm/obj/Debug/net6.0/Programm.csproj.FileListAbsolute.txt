@@ -1,0 +1,15 @@
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\bin\Debug\net6.0\Programm.exe
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\bin\Debug\net6.0\Programm.deps.json
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\bin\Debug\net6.0\Programm.runtimeconfig.json
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\bin\Debug\net6.0\Programm.dll
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\bin\Debug\net6.0\Programm.pdb
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\Programm.csproj.AssemblyReference.cache
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\Programm.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\Programm.AssemblyInfoInputs.cache
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\Programm.AssemblyInfo.cs
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\Programm.csproj.CoreCompileInputs.cache
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\Programm.dll
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\refint\Programm.dll
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\Programm.pdb
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\Programm.genruntimeconfig.cache
+F:\Обучение-Специалист\Обучение сис админ\Итоговая контрольная работа по основному блоку\Programm\obj\Debug\net6.0\ref\Programm.dll
